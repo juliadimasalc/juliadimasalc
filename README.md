@@ -7,7 +7,7 @@
 ### 💻 Sobre Mim
 Sou profissional da área de Tecnologia com experiência em desenvolvimento, sustentação e suporte de sistemas corporativos (desktop e web), banco de dados e resolução de incidentes técnicos. Atualmente focada em criar soluções eficientes de ponta a ponta.
 
-* 🧑‍💻 **GitHub Pessoal:** [:github.com/dev-juliadimas/]([https://://github.com](https://github.com/dev-juliadimas/))
+* 🧑‍💻 **GitHub Pessoal:** [:github.com/dev-juliadimas/]([https://://github.com](https://github.com/dev-juliadimas/)
 * 💼 **LinkedIn:** [linkedin.com/in/juliadimas](https://www.linkedin.com/in/juliadimas/)
 
 ---
